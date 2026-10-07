@@ -1,0 +1,20 @@
+# data and outputs
+data/*
+!data/README.md
+submission.csv
+*.csv
+*.zip
+
+# python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
